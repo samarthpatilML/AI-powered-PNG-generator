@@ -1,6 +1,6 @@
-                                                              AI PNG Image Generator
+                                                              A PNG Image Generator
 
-This  Python Flask-based web application generates PNG images using the OpenAI API. Users can input prompts through a simple web interface, and the backend interacts with OpenAI's API to generate images based on the input. The generated images are displayed and can be downloaded as PNG files.
+This  Python Flask-based web application generates PNG images using the OpenAI API. Users can input prompts through a simple web interface, and the backend interacts with OpenAI's API to create images based on the input. The generated images are displayed and can be downloaded as PNG files.
 
 Features⤵️
 .Generate PNG images based on user prompts.
